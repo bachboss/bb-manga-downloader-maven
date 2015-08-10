@@ -2,7 +2,7 @@
 
 BB Manga Downloader is a Java tool, allows us to download managa from various site.
 
-For more detail about how to use this tool, check [this wiki]. (https://github.com/bachboss/bb-manga-downloader-maven/wiki/How-to-use-BB-Manga-Downloader).
+For more detail about how to use this tool, check [this wiki] (https://github.com/bachboss/bb-manga-downloader-maven/wiki/How-to-use-BB-Manga-Downloader).
 
 The lastest version is [here] (https://github.com/bachboss/bb-manga-downloader-maven/releases/download/1.4.0/BB.Manga.Downloader.1.4.0.zip).
 
